@@ -1,8 +1,8 @@
 # OSG202_SE1708_HE176496
 OSG202 Summer 2022
 
-Class ID: SE1798
+Class ID: SE1708
 
-Student ID: HE176496
+Student ID: HE161762
 
-Student Name: Đinh Đại Dương
+Student Name: Nguyễn Ngọc Huy
